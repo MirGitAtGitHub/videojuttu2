@@ -24,9 +24,10 @@
         <li class="nav-item">
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="http://localhost/videojuttu2/asiakas.php">Työpöytä</a>
+          <a class="nav-link" href="http://localhost/videojuttu2/asiakas.php">Asiakkaanhallinta</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" href="http://localhost/videojuttu2/elokuva.php">Elokuvakirjasto</a>
         </li>
         <li class="nav-item">
         </li>

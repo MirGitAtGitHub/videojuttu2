@@ -17,6 +17,29 @@
     <title>netflix v2</title>
   </head>
   <body>
+    <main role="main">
+
+      <section class="jumbotron text-center">
+        <div class="container">
+          <h1 class="jumbotron-heading">Tervetuloa!</h1>
+          <p class="lead text-muted">Olet saapunut asiakas- ja elokuvahallinnan ihmemaailmaan. Alta pääset pikaisesti joko asiakashallintaan tai elokuvahallintaan. Kokeile ihmeessä!</p>
+          <p>
+            <a href="http://localhost/videojuttu2/asiakas.php" class="btn btn-primary my-2">Asiakashallintaan</a>
+            <a href="http://localhost/videojuttu2/elokuva.php" class="btn btn-secondary my-2">Elokuvahallintaan</a>
+          </p>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/vendor/holder.min.js"></script>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
